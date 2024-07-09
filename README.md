@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Web Development & DSA
 - 💞️ I’m looking to collaborate on various Software projects
 - 📫 How to reach me Contact me:-matif91201@gmail.com
+- ![](https://komarev.com/ghpvc/?username=atif786k&color=brightgreen&style=flat-square)
 
 <!---
 atif786k/atif786k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
