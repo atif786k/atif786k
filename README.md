@@ -1,5 +1,5 @@
 # 💫 About Me:
-<center>I'm Mohammad Atif</center><br><br>🌱 Currently learning Three.js, Spline and Data Structures and Algorithms<br><br>👯 Looking to collaborate on various Software Projects<br><br>👨‍💻 Take a glance on my work at : https://atifolio.netlify.app/<br><br>💬 Ask me about Frontend, DSA, Java, etc...,<br><br>📫 How to reach me : matif91201@gmail.com
+<br><br>🌱 Currently learning Three.js, Spline and Data Structures and Algorithms<br><br>👯 Looking to collaborate on various Software Projects<br><br>👨‍💻 Take a glance on my work at : https://atifolio.netlify.app/<br><br>💬 Ask me about Frontend, DSA, Java, etc...,<br><br>📫 How to reach me : matif91201@gmail.com
 
 
 # 💻 Tech Stack:
