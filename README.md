@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hey there 👋, I'm Mohammad Atif</h1>
+<h1 align="center">Greetings 👋, I'm Mohammad Atif</h1>
 <h3 align="center">Full Stack Developer | Creative Technologist | Tech Enthusiast</h3>
 
 ---
