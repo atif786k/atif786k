@@ -76,26 +76,6 @@ Frontend Development, Backend Development (MERN & SERN), DSA, Java, AI, Authenti
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atif786k&theme=tokyonight&hide_border=false&count_private=true&show_icons=true" alt="Atif's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atif786k&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atif786k&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages" />
-</p>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=atif786k&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Repos" />
-</p>
-
----
-
 <p align="center">
   🚀 Keep building, keep learning, and let’s create something amazing together!
 </p>
